@@ -1,0 +1,18 @@
+*DEPLOYING A MOVIE LISTING WEBSITE IN AWS CLOUD INFRASTRUCTURE WITH PROPER SCALING*
+
+The Movie Listing website is a  web application built using ReactJS, NodeJS, and MongoDB. 
+It is a platform where users can upload movie details and images, and other users can view  the movies data uploaded into the website. 
+
+The Movie Listing website uses React IS as the frontend technology. 
+ReactJS is a popular JavaScript library that is used for building user interfaces, 
+it allows developers to create reusable UI components  that can be used across the application. 
+
+The frontend of the Movie Listing website is built using ReactJS and is responsible for displaying the user interface to the end-users.
+The backend of the Movie Listing website is deployed on an EC2 instance in the proposed deployment architecture, 
+EC2 is a virtual machine in the cloud offered by AWS. 
+It allows developers to run applications on a scalable and secure cloud infrastructure. 
+Docker is used for deployment, which is a containerization platform that allows developers to package applications into containers
+
+In this project we are deploying  website in the cloud infrastructure using Amazon Web Services (AWS)  and providing the load balancing .
+This document outlines the technical steps included in the project, including the technology stack, installation guide, and deployment instructions.
+
